@@ -1,6 +1,6 @@
-This repository demonstrates the implementation and optimization of the hill climbing algorithm across various problem spaces, enhancing both efficiency and accuracy. Additionally, it features an integrated visualization module using the TURTLE library, allowing users to observe the optimization process in real-time and gain insights into the algorithm's behavior.
+This repository demonstrates the implementation and optimization of the different hill climbing algorithms across various problem spaces, enhancing both efficiency and accuracy. Additionally, it features an integrated visualization module using the TURTLE library, allowing users to observe the optimization process in real-time and gain insights into the algorithm's behaviour.
 
-"jupyter noterbook preffered"
+"jupyter notebook preferred"
 
 Before running the code, make sure you have the following libraries installed:
 
