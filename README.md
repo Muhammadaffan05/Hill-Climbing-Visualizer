@@ -1,4 +1,8 @@
-Before running the script, make sure you have the following libraries installed:
+This repository demonstrates the implementation and optimization of the hill climbing algorithm across various problem spaces, enhancing both efficiency and accuracy. Additionally, it features an integrated visualization module using the TURTLE library, allowing users to observe the optimization process in real-time and gain insights into the algorithm's behavior.
+
+"jupyter noterbook preffered"
+
+Before running the code, make sure you have the following libraries installed:
 
 - Python 3.11.2
 - `turtle` library
