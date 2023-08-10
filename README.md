@@ -11,6 +11,6 @@ Before running the code, make sure you have the following libraries installed:
 You can install the required libraries using the following commands:
 
 ```bash
-pip install 3.11.2  # Replace with your version
+pip install 3.11.2  
 pip install turtle
 pip install numpy
